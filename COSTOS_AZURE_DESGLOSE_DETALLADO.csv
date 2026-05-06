@@ -1,0 +1,13 @@
+SERVICIO,COSTO_MENSUAL,COSTO_ANUAL,DESCRIPCION,ESTADO,NOTAS
+Azure Database for MySQL (B4MS),277.98,3335.76,Servidor principal con 7 BD - 4GB RAM,Activo,Almacenamiento incluido hasta 50GB
+Data Factory (Replicación),3.00,36.00,Copiar datos automáticamente de BD originales,Activo,Incluye transformaciones y movimiento
+Logic Apps (Automatización),3.00,36.00,Actualizar tablas según horarios específicos,Activo,4 Logic Apps (asistencia alumno trabajador documentos)
+Azure Monitor (Monitoreo),0.00,0.00,Alertas y monitoreo de salud,Gratis,Primeras 10 alertas: GRATIS
+Email Notifications,2.00,24.00,Envío de alertas por correo electrónico,Activo,Configurado con Logic Apps
+TOTAL AZURE MENSUAL/ANUAL,285.98,3431.76,TOTAL A PAGAR,Estimado,Sin margen adicional
+,,,,
+NOTAS IMPORTANTES,,,,,
+Tamano del servidor,,,B4MS es estándar para 7 BD replicas,,,
+Almacenamiento incluido,,,50GB incluidos en el precio,,,
+Sin Free Tier significativo,,,Costo completo desde día 1,,,
+Alternativa más barata,,,Azure Standard B2s cuesta menos pero menor rendimiento,,,

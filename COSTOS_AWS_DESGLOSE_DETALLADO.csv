@@ -1,0 +1,16 @@
+SERVICIO,COSTO_MENSUAL,COSTO_ANUAL,DESCRIPCION,ESTADO,NOTAS
+RDS MySQL (db.t3.small),15.00,180.00,Servidor principal con 7 BD,Activo,Incluye 2GB almacenamiento
+Almacenamiento RDS (50 GB),2.00,24.00,Almacenamiento adicional para datos replicados,Activo,Por encima de 2GB incluidos
+DMS (Data Migration Service),2.00,24.00,Replicación inicial de BD originales a RDS,Inicial,Se ejecuta una sola vez
+Lambda (95 ejecuciones/mes),0.00,0.00,Automatización de actualizaciones de tablas,Gratis,Primeras 1M ejecuciones/mes: GRATIS
+EventBridge (Scheduling),0.00,0.00,Programación de horarios para Lambda,Gratis,Sin costo
+CloudWatch (10 alarmas),0.00,0.00,Monitoreo de fallos y errores,Gratis,Primeras 10 alarmas: GRATIS
+SNS (50 emails/mes),0.00,0.00,Notificaciones por email (alertas),Gratis,Primeros 1000 emails/mes: GRATIS
+SUBTOTAL,19.00,228.00,Base de costos,Confirmado,
+Margen de seguridad (+30%),5.74,68.40,Imprevistos y variaciones,Estimado,Para casos excepcionales
+TOTAL AWS MENSUAL/ANUAL,27.58,330.96,TOTAL A PAGAR,Estimado,Incluye margen
+,,,,
+NOTAS IMPORTANTES,,,,,
+Free Tier AWS,,,Cubre casi todo el presupuesto,,,
+Escalabilidad,,,Si aumentan ejecuciones sigue siendo GRATIS,,,
+Almacenamiento creciente,,,Aumentar +$0.10 por GB si supera 50GB,,,

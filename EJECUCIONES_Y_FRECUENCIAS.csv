@@ -1,0 +1,6 @@
+TABLA,FRECUENCIA,VECES_POR_DIA,DIAS_AL_MES,EJECUCIONES_MES,EJECUCIONES_AÑO,HORARIO_EJEMPLO,NOTAS
+asistencia,2 veces/día,2,30,60,720,08:00 AM y 04:00 PM,Todos los días
+alumno,1 vez/día,1,30,30,360,06:00 AM,Todos los días
+trabajador,1 vez/semana,0.14,4.3,4,52,09:00 AM Lunes,Sólo lunes
+documentos,1 vez/viernes,0.2,4.3,4,48,04:00 PM Viernes,Sólo viernes
+TOTAL,,,30,98,1180,,

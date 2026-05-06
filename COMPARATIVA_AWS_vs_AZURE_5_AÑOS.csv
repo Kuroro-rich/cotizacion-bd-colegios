@@ -1,0 +1,13 @@
+AÑO,AWS_COSTO_ANUAL,AZURE_COSTO_ANUAL,DIFERENCIA_ANUAL,AHORRO_ACUMULADO_AWS,PORCENTAJE_DIFERENCIA
+Año 1,331,3427.76,-3096.76,-3096.76,-90.34%
+Año 2,331,3427.76,-3096.76,-6193.52,-90.34%
+Año 3,331,3427.76,-3096.76,-9290.28,-90.34%
+Año 4,331,3427.76,-3096.76,-12387.04,-90.34%
+Año 5,331,3427.76,-3096.76,-15483.80,-90.34%
+TOTAL,1655,17138.80,-15483.80,GANADOR: AWS,
+
+NOTAS:
+AWS es 11.3 veces más barato que Azure
+En 5 años: Ahorro de $15,483.80 eligiendo AWS
+El presupuesto es estable (no aumenta con el tiempo)
+Si aumentan ejecuciones AWS sigue siendo más barato
