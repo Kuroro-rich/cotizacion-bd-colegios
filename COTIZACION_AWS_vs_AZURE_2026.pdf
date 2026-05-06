@@ -1,0 +1,320 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /MediaBox [0 0 612 792] /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 8500 >>
+stream
+BT
+/F2 24 Tf
+50 750 Td
+(COTIZACIÓN: 7 BASES DE DATOS RÉPLICAS) Tj
+ET
+BT
+/F2 16 Tf
+50 720 Td
+(AWS vs AZURE - 1 AÑO) Tj
+ET
+BT
+/F1 11 Tf
+50 700 Td
+(Fecha: 2026-05-06 | Usuario: Kuroro-rich | Sistemas: 7 colegios + holding) Tj
+ET
+BT
+/F2 14 Tf
+50 670 Td
+(RESUMEN EJECUTIVO) Tj
+ET
+0.8 0.8 0.8 rg
+50 620 500 40 re
+f
+BT
+/F2 11 Tf
+60 650 Td
+(Métrica) Tj
+200 0 Td
+(AWS) Tj
+100 0 Td
+(AZURE) Tj
+100 0 Td
+(Ganador) Tj
+ET
+BT
+/F1 10 Tf
+60 635 Td
+(Costo Mensual) Tj
+200 0 Td
+($27.58) Tj
+100 0 Td
+($285.98) Tj
+100 0 Td
+(AWS *) Tj
+ET
+BT
+60 620 Td
+(Costo Anual) Tj
+200 0 Td
+($331) Tj
+100 0 Td
+($3,427.76) Tj
+100 0 Td
+(AWS *) Tj
+ET
+BT
+60 605 Td
+(Diferencia/Año) Tj
+200 0 Td
+(—) Tj
+100 0 Td
+(-$3,096.76) Tj
+100 0 Td
+(AHORRO) Tj
+ET
+BT
+/F2 14 Tf
+50 570 Td
+(DESGLOSE DE COSTOS - AWS) Tj
+ET
+0.9 0.9 0.9 rg
+50 520 500 40 re
+f
+BT
+/F1 10 Tf
+60 545 Td
+(Servicio) Tj
+200 0 Td
+(Costo Mes) Tj
+100 0 Td
+(Costo Año) Tj
+ET
+BT
+60 530 Td
+(RDS MySQL (db.t3.small)) Tj
+200 0 Td
+($15.00) Tj
+100 0 Td
+($180.00) Tj
+ET
+BT
+60 515 Td
+(Almacenamiento (50 GB)) Tj
+200 0 Td
+($2.00) Tj
+100 0 Td
+($24.00) Tj
+ET
+BT
+60 500 Td
+(DMS (Replicación)) Tj
+200 0 Td
+($2.00) Tj
+100 0 Td
+($24.00) Tj
+ET
+BT
+60 485 Td
+(Lambda (Automatización)) Tj
+200 0 Td
+($0.00) Tj
+100 0 Td
+(GRATIS) Tj
+ET
+BT
+60 470 Td
+(CloudWatch (Monitoreo)) Tj
+200 0 Td
+($0.00) Tj
+100 0 Td
+(GRATIS) Tj
+ET
+BT
+60 455 Td
+(SNS (Notificaciones)) Tj
+200 0 Td
+($0.00) Tj
+100 0 Td
+(GRATIS) Tj
+ET
+BT
+/F2 10 Tf
+60 440 Td
+(TOTAL AWS) Tj
+200 0 Td
+($27.58) Tj
+100 0 Td
+($330.96) Tj
+ET
+BT
+/F2 14 Tf
+50 400 Td
+(DESGLOSE DE COSTOS - AZURE) Tj
+ET
+0.9 0.9 0.9 rg
+50 350 500 40 re
+f
+BT
+/F1 10 Tf
+60 375 Td
+(Servicio) Tj
+200 0 Td
+(Costo Mes) Tj
+100 0 Td
+(Costo Año) Tj
+ET
+BT
+60 360 Td
+(Azure MySQL (B4MS, 4GB)) Tj
+200 0 Td
+($277.98) Tj
+100 0 Td
+($3,335.76) Tj
+ET
+BT
+60 345 Td
+(Data Factory (Replicación)) Tj
+200 0 Td
+($3.00) Tj
+100 0 Td
+($36.00) Tj
+ET
+BT
+60 330 Td
+(Logic Apps (Automatización)) Tj
+200 0 Td
+($3.00) Tj
+100 0 Td
+($36.00) Tj
+ET
+BT
+60 315 Td
+(Email Notifications) Tj
+200 0 Td
+($2.00) Tj
+100 0 Td
+($24.00) Tj
+ET
+BT
+/F2 10 Tf
+60 300 Td
+(TOTAL AZURE) Tj
+200 0 Td
+($285.98) Tj
+100 0 Td
+($3,431.76) Tj
+ET
+BT
+/F2 14 Tf
+50 260 Td
+(TABLAS Y FRECUENCIAS DE ACTUALIZACIÓN) Tj
+ET
+0.9 0.9 0.9 rg
+50 210 500 40 re
+f
+BT
+/F1 10 Tf
+60 235 Td
+(Tabla) Tj
+150 0 Td
+(Frecuencia) Tj
+150 0 Td
+(Ejecuciones/Año) Tj
+ET
+BT
+60 220 Td
+(asistencia) Tj
+150 0 Td
+(2 veces/día) Tj
+150 0 Td
+(720) Tj
+ET
+BT
+60 205 Td
+(alumno) Tj
+150 0 Td
+(1 vez/día) Tj
+150 0 Td
+(360) Tj
+ET
+BT
+60 190 Td
+(trabajador) Tj
+150 0 Td
+(1 vez/semana) Tj
+150 0 Td
+(52) Tj
+ET
+BT
+60 175 Td
+(documentos) Tj
+150 0 Td
+(1 vez/viernes) Tj
+150 0 Td
+(48) Tj
+ET
+BT
+/F2 10 Tf
+60 160 Td
+(TOTAL) Tj
+150 0 Td
+(—) Tj
+150 0 Td
+(1,180) Tj
+ET
+BT
+/F2 12 Tf
+50 120 Td
+(RECOMENDACIÓN FINAL: ELEGIR AWS) Tj
+ET
+BT
+/F1 10 Tf
+50 100 Td
+(Razones:) Tj
+ET
+BT
+60 85 Td
+(1. 11.3X mas barato que Azure ($3,096/ano ahorrados)) Tj
+ET
+BT
+60 70 Td
+(2. Free Tier cubre casi todo el presupuesto) Tj
+ET
+BT
+60 55 Td
+(3. ROI extraordinario - Ahorros en 5 anos: $15,483.80) Tj
+ET
+BT
+60 40 Td
+(4. Python basico es skill valiosa (2-3 horas aprendizaje)) Tj
+ET
+BT
+60 25 Td
+(5. Muy escalable para crecimiento futuro) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f
+0000000009 00000 n
+0000000058 00000 n
+0000000115 00000 n
+0000000229 00000 n
+0000000308 00000 n
+0000000394 00000 n
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+8944
+%%EOF
